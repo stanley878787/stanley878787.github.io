@@ -1,0 +1,15 @@
+[submodule "themes/toha"]
+	path = themes/toha
+	url = https://github.com/hugo-toha/toha.git
+[submodule "themes/Syna"]
+	path = themes/Syna
+	url = https://github.com/okkur/syna-start.git
+[submodule "themes/themes/syna"]
+	path = themes/themes/syna
+	url = https://git.okkur.org/syna
+[submodule "themes/themes/hugo-scroll"]
+	path = themes/themes/hugo-scroll
+	url = https://github.com/janraasch/hugo-scroll.git
+[submodule "themes/stip"]
+	path = themes/stip
+	url = https://github.com/EmielH/stip-hugo.git

@@ -1,0 +1,28 @@
+baseURL = "https://stanley878787.github.io/"
+languageCode = "en"
+defaultContentLanguage = "en"
+title = "Stip"
+theme = "stip"
+disableKinds = ["page", "section", "taxonomy", "taxonomyTerm"]
+
+[Author]
+    name = "關於我們"
+    bio = "專業蔬果配送服務"
+
+[params]
+
+    [[params.links]]
+        iconset = "fas"
+        icon = "envelope"
+        title = "E-mail"
+        url = "mailto:mail@example.org"
+
+    [[params.links]]
+        icon = "github"
+        title = "Github"
+        url = "https://github.com/"
+
+    [[params.links]]
+        icon = "twitter"
+        title = "Twitter"
+        url = "https://twitter.com/"
